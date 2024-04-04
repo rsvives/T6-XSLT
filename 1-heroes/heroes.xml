@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="heroes.xsl"?>
+
+<heroes>
+    <hero age="29">
+        <name>Molecule Ban</name>
+        <imgSource>https://cdn.marvel.com/content/1x/006hbb_ons_inl_01.jpg</imgSource>
+        <secretIdentity>Dan Jukes</secretIdentity>
+        <powers>
+            <power>Radiation resistance</power>
+            <power>Turning tiny</power>
+        </powers>
+    </hero>
+    <hero age="39">
+        <name>Madame Uppercut</name>
+        <imgSource>https://i.blogs.es/161082/marvel-black-widow-movie/1366_2000.jpeg</imgSource>
+        <secretIdentity>Jane Wilson</secretIdentity>
+        <powers>
+            <power>Million tonne punch</power>
+            <power>Damage resistance</power>
+            <power>Superhuman reflexes</power>
+        </powers>
+    </hero>
+    <hero age="1000000">
+        <imgSource>https://images.unsplash.com/photo-1623199971727-c59b8c11fdfd</imgSource>
+        <name>Eternal Flame</name>
+        <secretIdentity>Unknown</secretIdentity>
+        <powers>
+            <power>Immortality</power>
+            <power>Heat Immunity</power>
+            <power>Inferno</power>
+            <power>Teleportation</power>
+            <power>Interdimensional travel</power>
+            <power>Impactrueno</power>
+            <power>Latigo cepa</power>
+        </powers>
+    </hero>
+    <hero>
+        <name> Nico San Marcos</name>
+        <imgSource>https://www.mundodeportivo.com/alfabeta/hero/2024/03/iron-man-tony-stark-marvel-2-1.jpg</imgSource>
+        <secretIdentity> Tipo de Incógnito</secretIdentity>
+        <powers>
+            <power>super speed ⚡️</power>
+            <power>climbing </power>
+            <power>underwater breathing</power>
+        </powers>
+    </hero>
+
+</heroes>
